@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food Hub - Restaurant Management System
 
 Food Hub is a comprehensive web-based restaurant management system that enables restaurants to manage their menu, orders, and customer interactions efficiently. The system includes both customer-facing and administrative interfaces.
