@@ -94,5 +94,5 @@ food-hub/
 5. Create a Pull Request
 
 ## contributors
-Pabitra – User side 
-Ranish – Admin side
+Pabitra Sapkota – User side 
+Ranish Chaulagai– Admin side 
