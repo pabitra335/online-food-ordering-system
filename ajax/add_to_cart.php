@@ -2,7 +2,7 @@
 session_start();
 require_once '../config/database.php';
 
-// Check if user is logged in
+// Check whether the user is logged in
 if (!isset($_SESSION['user_id'])) {
     header('Content-Type: application/json');
     echo json_encode(['success' => false, 'message' => 'Please login first']);
